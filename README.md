@@ -1,3 +1,36 @@
+# ecommerce React Js
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<!-- link sosmed -->
+<div id="badges" align="center">
+<a href="https://www.linkedin.com/in/pramudia-pangestu-76a302259/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+  <p>
+  <img src="https://komarev.com/ghpvc/?username=pramudia&style=flat-square&color=blue" alt=""/>
+  </p>
+</div>
+
+<hr>
+<!-- Hello -->
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+## :iphone: About Aplication :
+This ecommers catalog is made using Vue JS. This application was made to complete the work of the Core Initiative Frontend Virtual Internship Program Rakamin Academy
+1. consume API from Fakershop
+2. fitur add to chart
+3. fitur search product
+4. fitur filter product berdasarkan rating, ascanding discanding
+5. fitur login dengan jwt token
+6. menggunakan react router dom
+7. menggunakan react redux
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
