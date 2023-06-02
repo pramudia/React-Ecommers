@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Kaos Hitam Distro",
+      "stock": 10,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 35000,
+      "image": "https://cf.shopee.co.id/file/854f8d29440f7c424440deb85d2e8598"
+    },
+    {
+      "id": 2,
+      "name": "Kaos Lengan Panjang",
+      "stock": 5,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 60000,
+      "image": "https://s1.bukalapak.com/img/66309576592/s-330-330/data.jpeg.webp"
+    },
+    {
+      "id": 3,
+      "name": "Hoodie Pink Bear",
+      "stock": 15,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 95000,
+      "image": "https://dj7u9rvtp3yka.cloudfront.net/products/PIM-1592640845582-745a8651-ee65-4d55-8d37-ee0cd7985270_v1-small.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Zipper Jacket",
+      "stock": 10,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 129000,
+      "image": "https://cf.shopee.co.id/file/c9b41afa79fcb3b15571880019233a2d"
+    },
+    {
+      "id": 5,
+      "name": "Sepatu Vans Hitam",
+      "stock": 10,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 230000,
+      "image": "https://images.tokopedia.net/img/cache/700/product-1/2019/5/14/581905/581905_c16b954c-f8f0-4179-94af-f788d8d0b8d7_1080_1080.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Nie Run Blue",
+      "stock": 10,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 735000,
+      "image": "https://cf.shopee.co.id/file/208e6bffa4d2e35a03211b14499d3137"
+    },
+    {
+      "id": 7,
+      "name": "Backpack Tommy Hilfiger",
+      "stock": 10,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 457000,
+      "image": "https://cf.shopee.co.id/file/4833025e5bd355a2bdd1e4ce3ac1a4bd"
+    },
+    {
+      "id": 8,
+      "name": "Set Jersey Hitam",
+      "stock": 10,
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 150000,
+      "image": "https://cf.shopee.co.id/file/5e2ab943e2bab7a0dc8cb30cbb70682c"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "abed@gmail.com",
+      "password": "admin123",
+      "token": "okq69LF5S3y69m1sr30Y3YZecPA80I6h"
+    }
+  ],
+  "carts": [
+    {
+      "productId": 1,
+      "amount": 2
+    }
+  ]
+}
